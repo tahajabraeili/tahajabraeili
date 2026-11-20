@@ -4,7 +4,7 @@
 
 ## <img src="https://github.com/tahajabraeili/tahajabraeili/blob/main/about-me.gif?raw=true" width="19px"> About Me
 
-Hello! My name is **Taha Jabraeili**, I am **20** years old, and I live in **Iran, Gilan**.
+Hello! My name is **Taha Jabraeili**, I am **21** years old, and I live in **Iran, Gilan**.
 
 I'm a **Computer Engineering student** and passionate developer with experience in building **Telegram bots**, **web applications**, and **automation tools** using Python.
 
@@ -18,7 +18,7 @@ I'm always eager to learn, collaborate, and take on challenging projects.
 
 ## 🇮🇷 درباره من
 
-سلام! اسمم **طاها جبرائیلی** هست، ۲۰ سالمه و در **ایران، گیلان** زندگی می‌کنم.
+سلام! اسمم **طاها جبرائیلی** هست، ۲۱ سالمه و در **ایران، گیلان** زندگی می‌کنم.
 
 دانشجوی **مهندسی کامپیوتر** هستم و به ساخت **ربات‌های تلگرام**، **وب‌اپلیکیشن** و **اتوماسیون** با Python علاقه دارم.
 
